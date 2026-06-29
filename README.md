@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/ayşe-nur-zontul-0688b0302/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="aysezntl51@gmail.com">
+  <a href="mailto:aysezntl51@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
