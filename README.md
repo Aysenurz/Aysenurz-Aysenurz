@@ -1,4 +1,3 @@
-# Aysenurz-Aysenurz
 
 <h1 align="center">Merhaba, Ben Ayşe Nur! 👋</h1>
 
